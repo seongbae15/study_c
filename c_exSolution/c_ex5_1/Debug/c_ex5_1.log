@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\SB15\Desktop\StudySpace\study_c\c_exSolution\c_ex5_1\main.c(9,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\SB15\Desktop\StudySpace\study_c\c_exSolution\c_ex5_1\main.c(20,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c_ex5_1.vcxproj -> C:\Users\SB15\Desktop\StudySpace\study_c\c_exSolution\Debug\c_ex5_1.exe
