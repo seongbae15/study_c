@@ -9,9 +9,7 @@ void RunConversion(int input);
 int InputUnitConversionDetailMenu(char* unit[]);
 void ConvertUnit(char* unit[], int input, double coefConversion);
 void RunEachUnitConversion(char* unit[], double coefConversion);
-//void RunWeightConversion(char* unit[]);
-//void RunVolumeConversion(char* unit[]);
-//void RunAreaConversion(char* unit[]);
+
 
 typedef struct
 {
@@ -124,27 +122,3 @@ void ConvertUnit(char* unit[], int input, double coefConversion)
 	printf("->%s : %.2f\n", unit[(input+1)%2], inputValue*coefConversion);
 	getch();
 }
-
-
-//void RunWeightConversion(char* unit[])
-//{
-//	while (1)
-//	{
-//		DispConversionSubMenu(unit);
-//		int input = InputSys();
-//	}
-//}
-//
-//void RunVolumeConversion(char* unit[])
-//{
-//	while (1)
-//	{
-//		DispConversionSubMenu(unit);
-//		int input = InputSys();
-//	}
-//}
-//void RunAreaConversion(char* unit[])
-//{
-//	DispConversionSubMenu(unit);
-//	int input = InputSys();
-//}
