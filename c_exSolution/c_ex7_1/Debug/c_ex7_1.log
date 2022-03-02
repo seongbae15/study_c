@@ -1,9 +1,9 @@
 ﻿  main.c
-C:\Users\SB15\Desktop\StudySpace\study_c\c_exSolution\c_ex7_1\main.c(44,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\SB15\Desktop\StudySpace\study_c\c_exSolution\c_ex7_1\main.c(72,50): warning C4090: '함수': 'const' 한정자가 서로 다릅니다.
-C:\Users\SB15\Desktop\StudySpace\study_c\c_exSolution\c_ex7_1\main.c(75,50): warning C4090: '함수': 'const' 한정자가 서로 다릅니다.
-C:\Users\SB15\Desktop\StudySpace\study_c\c_exSolution\c_ex7_1\main.c(78,50): warning C4090: '함수': 'const' 한정자가 서로 다릅니다.
-C:\Users\SB15\Desktop\StudySpace\study_c\c_exSolution\c_ex7_1\main.c(81,48): warning C4090: '함수': 'const' 한정자가 서로 다릅니다.
-C:\Users\SB15\Desktop\StudySpace\study_c\c_exSolution\c_ex7_1\main.c(105,9): warning C4013: 'getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\Users\SB15\Desktop\StudySpace\study_c\c_exSolution\c_ex7_1\main.c(123,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\SB15\Desktop\StudySpace\study_c\c_exSolution\c_ex7_1\main.c(42,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\SB15\Desktop\StudySpace\study_c\c_exSolution\c_ex7_1\main.c(70,50): warning C4090: '함수': 'const' 한정자가 서로 다릅니다.
+C:\Users\SB15\Desktop\StudySpace\study_c\c_exSolution\c_ex7_1\main.c(73,50): warning C4090: '함수': 'const' 한정자가 서로 다릅니다.
+C:\Users\SB15\Desktop\StudySpace\study_c\c_exSolution\c_ex7_1\main.c(76,50): warning C4090: '함수': 'const' 한정자가 서로 다릅니다.
+C:\Users\SB15\Desktop\StudySpace\study_c\c_exSolution\c_ex7_1\main.c(79,48): warning C4090: '함수': 'const' 한정자가 서로 다릅니다.
+C:\Users\SB15\Desktop\StudySpace\study_c\c_exSolution\c_ex7_1\main.c(103,9): warning C4013: 'getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\SB15\Desktop\StudySpace\study_c\c_exSolution\c_ex7_1\main.c(121,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c_ex7_1.vcxproj -> C:\Users\SB15\Desktop\StudySpace\study_c\c_exSolution\Debug\c_ex7_1.exe

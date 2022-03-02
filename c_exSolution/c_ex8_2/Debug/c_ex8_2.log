@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\SB15\Desktop\StudySpace\study_c\c_exSolution\c_ex8_2\main.c(18,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\SB15\Desktop\StudySpace\study_c\c_exSolution\c_ex8_2\main.c(31,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c_ex8_2.vcxproj -> C:\Users\SB15\Desktop\StudySpace\study_c\c_exSolution\Debug\c_ex8_2.exe
