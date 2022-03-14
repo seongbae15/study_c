@@ -37,6 +37,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpp_ex13_1", "cpp_ex13_1\cp
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpp_ex14_1", "cpp_ex14_1\cpp_ex14_1.vcxproj", "{38B6BD26-EAAF-49FC-9F27-6F4993923297}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpp_ex16_1", "cpp_ex16_1\cpp_ex16_1.vcxproj", "{618FE285-471E-4A74-8071-C4AC80BF8291}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -181,6 +183,14 @@ Global
 		{38B6BD26-EAAF-49FC-9F27-6F4993923297}.Release|x64.Build.0 = Release|x64
 		{38B6BD26-EAAF-49FC-9F27-6F4993923297}.Release|x86.ActiveCfg = Release|Win32
 		{38B6BD26-EAAF-49FC-9F27-6F4993923297}.Release|x86.Build.0 = Release|Win32
+		{618FE285-471E-4A74-8071-C4AC80BF8291}.Debug|x64.ActiveCfg = Debug|x64
+		{618FE285-471E-4A74-8071-C4AC80BF8291}.Debug|x64.Build.0 = Debug|x64
+		{618FE285-471E-4A74-8071-C4AC80BF8291}.Debug|x86.ActiveCfg = Debug|Win32
+		{618FE285-471E-4A74-8071-C4AC80BF8291}.Debug|x86.Build.0 = Debug|Win32
+		{618FE285-471E-4A74-8071-C4AC80BF8291}.Release|x64.ActiveCfg = Release|x64
+		{618FE285-471E-4A74-8071-C4AC80BF8291}.Release|x64.Build.0 = Release|x64
+		{618FE285-471E-4A74-8071-C4AC80BF8291}.Release|x86.ActiveCfg = Release|Win32
+		{618FE285-471E-4A74-8071-C4AC80BF8291}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
